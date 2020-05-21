@@ -1,7 +1,7 @@
 /*
  E31192134_Fii Ahsan Qauly_D
  */
-package struktur_data;
+package E31192134_Stack;
 
 import java.util.Scanner;
 
